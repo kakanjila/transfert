@@ -1,3 +1,4 @@
+import java.io.*;
 public class Outils {
     public static final String absoluteDirectoryPath = "D:\\repository";  //stocke reassemble distant
 

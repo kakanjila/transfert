@@ -3,6 +3,8 @@ import java.awt.*;
 import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
+import java.util.ArrayList;
+
 
 public class FileReceiverSwing extends JFrame {
     private JButton refreshButton;
